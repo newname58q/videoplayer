@@ -1,4 +1,4 @@
-git+https://github.com/pyrogram/pyrogram@master
+git+https://github.com/ZauteKm/VCVideoPlayBot
 py-tgcalls==0.8.1rc1
 parse-torrent-name
 tgcrypto
